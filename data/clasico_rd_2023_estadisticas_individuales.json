@@ -1,0 +1,623 @@
+{
+  "titulo": "República Dominicana · Clásico Mundial 2023",
+  "alcance": "Registros individuales de actuación, distintos de nómina inicial anunciada",
+  "fuentes": {
+    "bateo": "https://www.mlb.com/world-baseball-classic/stats/dominican-republic/2023",
+    "pitcheo": "https://www.mlb.com/world-baseball-classic/stats/pitching/dominican-republic/2023",
+    "anuncio_inicial": "https://www.mlb.com/es/news/roster-republica-dominicana-world-baseball-classic-2023"
+  },
+  "bateadores": [
+    {
+      "nombre": "Manny Machado",
+      "posicion": "3B",
+      "estadisticas": {
+        "J": "4",
+        "VB": "17",
+        "C": "2",
+        "H": "4",
+        "2B": "1",
+        "3B": "0",
+        "HR": "2",
+        "RBI": "4",
+        "BB": "1",
+        "K": "4",
+        "SB": "0",
+        "CS": "0",
+        "AVG": ".235",
+        "OBP": ".278",
+        "SLG": ".647",
+        "OPS": ".925"
+      }
+    },
+    {
+      "nombre": "Juan Soto",
+      "posicion": "LF",
+      "estadisticas": {
+        "J": "4",
+        "VB": "15",
+        "C": "6",
+        "H": "6",
+        "2B": "3",
+        "3B": "0",
+        "HR": "2",
+        "RBI": "3",
+        "BB": "3",
+        "K": "3",
+        "SB": "0",
+        "CS": "0",
+        "AVG": ".400",
+        "OBP": ".500",
+        "SLG": "1.000",
+        "OPS": "1.500"
+      }
+    },
+    {
+      "nombre": "Willy Adames",
+      "posicion": "SS",
+      "estadisticas": {
+        "J": "1",
+        "VB": "4",
+        "C": "1",
+        "H": "2",
+        "2B": "0",
+        "3B": "0",
+        "HR": "0",
+        "RBI": "0",
+        "BB": "0",
+        "K": "1",
+        "SB": "0",
+        "CS": "0",
+        "AVG": ".500",
+        "OBP": ".500",
+        "SLG": ".500",
+        "OPS": "1.000"
+      }
+    },
+    {
+      "nombre": "Jeimer Candelario",
+      "posicion": "1B",
+      "estadisticas": {
+        "J": "4",
+        "VB": "12",
+        "C": "2",
+        "H": "6",
+        "2B": "1",
+        "3B": "0",
+        "HR": "0",
+        "RBI": "0",
+        "BB": "2",
+        "K": "2",
+        "SB": "0",
+        "CS": "0",
+        "AVG": ".500",
+        "OBP": ".571",
+        "SLG": ".583",
+        "OPS": "1.154"
+      }
+    },
+    {
+      "nombre": "Robinson Canó",
+      "posicion": "1B",
+      "estadisticas": {
+        "J": "2",
+        "VB": "2",
+        "C": "1",
+        "H": "1",
+        "2B": "0",
+        "3B": "0",
+        "HR": "0",
+        "RBI": "1",
+        "BB": "0",
+        "K": "1",
+        "SB": "0",
+        "CS": "0",
+        "AVG": ".500",
+        "OBP": ".500",
+        "SLG": ".500",
+        "OPS": "1.000"
+      }
+    },
+    {
+      "nombre": "Nelson Cruz",
+      "posicion": "RF",
+      "estadisticas": {
+        "J": "1",
+        "VB": "1",
+        "C": "1",
+        "H": "1",
+        "2B": "0",
+        "3B": "0",
+        "HR": "0",
+        "RBI": "0",
+        "BB": "0",
+        "K": "0",
+        "SB": "0",
+        "CS": "0",
+        "AVG": "1.000",
+        "OBP": "1.000",
+        "SLG": "1.000",
+        "OPS": "2.000"
+      }
+    },
+    {
+      "nombre": "Rafael Devers",
+      "posicion": "DH",
+      "estadisticas": {
+        "J": "4",
+        "VB": "16",
+        "C": "1",
+        "H": "2",
+        "2B": "0",
+        "3B": "0",
+        "HR": "0",
+        "RBI": "0",
+        "BB": "2",
+        "K": "4",
+        "SB": "0",
+        "CS": "0",
+        "AVG": ".125",
+        "OBP": ".222",
+        "SLG": ".125",
+        "OPS": ".347"
+      }
+    },
+    {
+      "nombre": "Wander Franco",
+      "posicion": "2B",
+      "estadisticas": {
+        "J": "3",
+        "VB": "9",
+        "C": "0",
+        "H": "2",
+        "2B": "0",
+        "3B": "0",
+        "HR": "0",
+        "RBI": "0",
+        "BB": "3",
+        "K": "1",
+        "SB": "1",
+        "CS": "0",
+        "AVG": ".222",
+        "OBP": ".417",
+        "SLG": ".222",
+        "OPS": ".639"
+      }
+    },
+    {
+      "nombre": "Teoscar Hernández",
+      "posicion": "RF",
+      "estadisticas": {
+        "J": "4",
+        "VB": "5",
+        "C": "0",
+        "H": "0",
+        "2B": "0",
+        "3B": "0",
+        "HR": "0",
+        "RBI": "0",
+        "BB": "2",
+        "K": "3",
+        "SB": "0",
+        "CS": "0",
+        "AVG": ".000",
+        "OBP": ".286",
+        "SLG": ".000",
+        "OPS": ".286"
+      }
+    },
+    {
+      "nombre": "Eloy Jiménez",
+      "posicion": "RF",
+      "estadisticas": {
+        "J": "3",
+        "VB": "11",
+        "C": "0",
+        "H": "5",
+        "2B": "1",
+        "3B": "0",
+        "HR": "0",
+        "RBI": "2",
+        "BB": "0",
+        "K": "2",
+        "SB": "0",
+        "CS": "0",
+        "AVG": ".455",
+        "OBP": ".455",
+        "SLG": ".545",
+        "OPS": "1.000"
+      }
+    },
+    {
+      "nombre": "Ketel Marte",
+      "posicion": "2B",
+      "estadisticas": {
+        "J": "2",
+        "VB": "8",
+        "C": "0",
+        "H": "2",
+        "2B": "1",
+        "3B": "0",
+        "HR": "0",
+        "RBI": "1",
+        "BB": "0",
+        "K": "2",
+        "SB": "0",
+        "CS": "0",
+        "AVG": ".250",
+        "OBP": ".250",
+        "SLG": ".375",
+        "OPS": ".625"
+      }
+    },
+    {
+      "nombre": "Francisco Mejía",
+      "posicion": "C",
+      "estadisticas": {
+        "J": "3",
+        "VB": "7",
+        "C": "1",
+        "H": "1",
+        "2B": "0",
+        "3B": "0",
+        "HR": "0",
+        "RBI": "1",
+        "BB": "1",
+        "K": "2",
+        "SB": "0",
+        "CS": "0",
+        "AVG": ".143",
+        "OBP": ".250",
+        "SLG": ".143",
+        "OPS": ".393"
+      }
+    },
+    {
+      "nombre": "Jeremy Peña",
+      "posicion": "SS",
+      "estadisticas": {
+        "J": "2",
+        "VB": "6",
+        "C": "1",
+        "H": "1",
+        "2B": "1",
+        "3B": "0",
+        "HR": "0",
+        "RBI": "0",
+        "BB": "2",
+        "K": "3",
+        "SB": "0",
+        "CS": "0",
+        "AVG": ".167",
+        "OBP": ".375",
+        "SLG": ".333",
+        "OPS": ".708"
+      }
+    },
+    {
+      "nombre": "Julio Rodríguez",
+      "posicion": "CF",
+      "estadisticas": {
+        "J": "4",
+        "VB": "18",
+        "C": "2",
+        "H": "5",
+        "2B": "1",
+        "3B": "0",
+        "HR": "0",
+        "RBI": "3",
+        "BB": "1",
+        "K": "9",
+        "SB": "0",
+        "CS": "0",
+        "AVG": ".278",
+        "OBP": ".316",
+        "SLG": ".333",
+        "OPS": ".649"
+      }
+    },
+    {
+      "nombre": "Jean Segura",
+      "posicion": "3B",
+      "estadisticas": {
+        "J": "2",
+        "VB": "2",
+        "C": "0",
+        "H": "1",
+        "2B": "1",
+        "3B": "0",
+        "HR": "0",
+        "RBI": "2",
+        "BB": "0",
+        "K": "1",
+        "SB": "0",
+        "CS": "0",
+        "AVG": ".500",
+        "OBP": ".500",
+        "SLG": "1.000",
+        "OPS": "1.500"
+      }
+    },
+    {
+      "nombre": "Gary Sánchez",
+      "posicion": "C",
+      "estadisticas": {
+        "J": "2",
+        "VB": "5",
+        "C": "1",
+        "H": "0",
+        "2B": "0",
+        "3B": "0",
+        "HR": "0",
+        "RBI": "0",
+        "BB": "1",
+        "K": "3",
+        "SB": "0",
+        "CS": "0",
+        "AVG": ".000",
+        "OBP": ".167",
+        "SLG": ".000",
+        "OPS": ".167"
+      }
+    }
+  ],
+  "lanzadores": [
+    {
+      "nombre": "Roansy Contreras",
+      "posicion": "P",
+      "estadisticas": {
+        "G": "1",
+        "GS": "1",
+        "W": "1",
+        "L": "0",
+        "ERA": "0.00",
+        "IP": "2.2",
+        "H": "1",
+        "ER": "0",
+        "BB": "0",
+        "K": "4",
+        "WHIP": "0.38",
+        "SV": "0"
+      }
+    },
+    {
+      "nombre": "Cristian Javier",
+      "posicion": "P",
+      "estadisticas": {
+        "G": "1",
+        "GS": "1",
+        "W": "1",
+        "L": "0",
+        "ERA": "0.00",
+        "IP": "4.0",
+        "H": "2",
+        "ER": "0",
+        "BB": "1",
+        "K": "4",
+        "WHIP": "0.75",
+        "SV": "0"
+      }
+    },
+    {
+      "nombre": "Héctor Neris",
+      "posicion": "P",
+      "estadisticas": {
+        "G": "3",
+        "GS": "0",
+        "W": "0",
+        "L": "0",
+        "ERA": "0.00",
+        "IP": "2.1",
+        "H": "0",
+        "ER": "0",
+        "BB": "1",
+        "K": "4",
+        "WHIP": "0.43",
+        "SV": "0"
+      }
+    },
+    {
+      "nombre": "Camilo Doval",
+      "posicion": "P",
+      "estadisticas": {
+        "G": "2",
+        "GS": "0",
+        "W": "0",
+        "L": "0",
+        "ERA": "0.00",
+        "IP": "2.1",
+        "H": "1",
+        "ER": "0",
+        "BB": "0",
+        "K": "3",
+        "WHIP": "0.43",
+        "SV": "0"
+      }
+    },
+    {
+      "nombre": "Luis Ortiz",
+      "posicion": "P",
+      "estadisticas": {
+        "G": "1",
+        "GS": "0",
+        "W": "0",
+        "L": "0",
+        "ERA": "0.00",
+        "IP": "2.0",
+        "H": "0",
+        "ER": "0",
+        "BB": "0",
+        "K": "3",
+        "WHIP": "0.00",
+        "SV": "0"
+      }
+    },
+    {
+      "nombre": "Bryan Abreu",
+      "posicion": "P",
+      "estadisticas": {
+        "G": "2",
+        "GS": "0",
+        "W": "0",
+        "L": "0",
+        "ERA": "9.00",
+        "IP": "2.0",
+        "H": "4",
+        "ER": "2",
+        "BB": "0",
+        "K": "2",
+        "WHIP": "2.00",
+        "SV": "0"
+      }
+    },
+    {
+      "nombre": "Sandy Alcántara",
+      "posicion": "P",
+      "estadisticas": {
+        "G": "1",
+        "GS": "1",
+        "W": "0",
+        "L": "1",
+        "ERA": "7.36",
+        "IP": "3.2",
+        "H": "5",
+        "ER": "3",
+        "BB": "3",
+        "K": "2",
+        "WHIP": "2.18",
+        "SV": "0"
+      }
+    },
+    {
+      "nombre": "Génesis Cabrera",
+      "posicion": "P",
+      "estadisticas": {
+        "G": "1",
+        "GS": "0",
+        "W": "0",
+        "L": "0",
+        "ERA": "0.00",
+        "IP": "1.1",
+        "H": "0",
+        "ER": "0",
+        "BB": "0",
+        "K": "2",
+        "WHIP": "0.00",
+        "SV": "0"
+      }
+    },
+    {
+      "nombre": "Diego Castillo",
+      "posicion": "P",
+      "estadisticas": {
+        "G": "2",
+        "GS": "0",
+        "W": "0",
+        "L": "0",
+        "ERA": "0.00",
+        "IP": "2.2",
+        "H": "0",
+        "ER": "0",
+        "BB": "0",
+        "K": "2",
+        "WHIP": "0.00",
+        "SV": "0"
+      }
+    },
+    {
+      "nombre": "Johnny Cueto",
+      "posicion": "P",
+      "estadisticas": {
+        "G": "1",
+        "GS": "1",
+        "W": "0",
+        "L": "1",
+        "ERA": "13.50",
+        "IP": "2.0",
+        "H": "4",
+        "ER": "3",
+        "BB": "0",
+        "K": "2",
+        "WHIP": "2.00",
+        "SV": "0"
+      }
+    },
+    {
+      "nombre": "Luis García",
+      "posicion": "P",
+      "estadisticas": {
+        "G": "2",
+        "GS": "0",
+        "W": "0",
+        "L": "0",
+        "ERA": "3.86",
+        "IP": "2.1",
+        "H": "1",
+        "ER": "1",
+        "BB": "1",
+        "K": "2",
+        "WHIP": "0.86",
+        "SV": "0"
+      }
+    },
+    {
+      "nombre": "Yimi García",
+      "posicion": "P",
+      "estadisticas": {
+        "G": "2",
+        "GS": "0",
+        "W": "0",
+        "L": "0",
+        "ERA": "0.00",
+        "IP": "2.0",
+        "H": "2",
+        "ER": "0",
+        "BB": "0",
+        "K": "2",
+        "WHIP": "1.00",
+        "SV": "0"
+      }
+    },
+    {
+      "nombre": "Rafael Montero",
+      "posicion": "P",
+      "estadisticas": {
+        "G": "2",
+        "GS": "0",
+        "W": "0",
+        "L": "0",
+        "ERA": "0.00",
+        "IP": "2.0",
+        "H": "0",
+        "ER": "0",
+        "BB": "0",
+        "K": "2",
+        "WHIP": "0.00",
+        "SV": "0"
+      }
+    },
+    {
+      "nombre": "César Valdez",
+      "posicion": "P",
+      "estadisticas": {
+        "G": "1",
+        "GS": "0",
+        "W": "0",
+        "L": "0",
+        "ERA": "5.40",
+        "IP": "1.2",
+        "H": "3",
+        "ER": "1",
+        "BB": "3",
+        "K": "2",
+        "WHIP": "3.60",
+        "SV": "0"
+      }
+    }
+  ],
+  "notas": [
+    "Los 16 bateadores y 14 lanzadores figuran en las tablas oficiales de MLB de 2023. No equivalen a la nómina inicialmente anunciada.",
+    "Las posiciones reflejan la etiqueta mostrada por MLB en su tabla de bateo; pueden no coincidir con la posición habitual.",
+    "IP usa tercios de entrada: .1 = un out, .2 = dos outs.",
+    "Las estadísticas pertenecen exclusivamente al Clásico Mundial 2023."
+  ]
+}

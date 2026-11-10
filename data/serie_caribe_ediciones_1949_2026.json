@@ -1,0 +1,1580 @@
+{
+  "nombre": "Archivo histórico Serie del Caribe",
+  "corte": "2026-11-07",
+  "nota": "Se ampliaron las fichas del Escogido de 2010 y 2012 con participantes, clasificación, dirigentes y MVP. Se conservan las correcciones previas de 1971, 2008, 2020, 2021, 2023 y 2025. Otros campos siguen pendientes de verificación.",
+  "ediciones": [
+    {
+      "anio": 1949,
+      "sede": "La Habana, Cuba",
+      "campeon": "Alacranes del Almendares",
+      "pais_campeon": "Cuba",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1950,
+      "sede": "San Juan, Puerto Rico",
+      "campeon": "Carta Vieja Yankees",
+      "pais_campeon": "Panamá",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1951,
+      "sede": "Caracas, Venezuela",
+      "campeon": "Cangrejeros de Santurce",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1952,
+      "sede": "Ciudad de Panamá, Panamá",
+      "campeon": "Leones del Habana",
+      "pais_campeon": "Cuba",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1953,
+      "sede": "La Habana, Cuba",
+      "campeon": "Cangrejeros de Santurce",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1954,
+      "sede": "San Juan, Puerto Rico",
+      "campeon": "Criollos de Caguas",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1955,
+      "sede": "Caracas, Venezuela",
+      "campeon": "Cangrejeros de Santurce",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1956,
+      "sede": "Ciudad de Panamá, Panamá",
+      "campeon": "Elefantes de Cienfuegos",
+      "pais_campeon": "Cuba",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1957,
+      "sede": "La Habana, Cuba",
+      "campeon": "Tigres de Marianao",
+      "pais_campeon": "Cuba",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1958,
+      "sede": "San Juan, Puerto Rico",
+      "campeon": "Tigres de Marianao",
+      "pais_campeon": "Cuba",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1959,
+      "sede": "Caracas, Venezuela",
+      "campeon": "Alacranes del Almendares",
+      "pais_campeon": "Cuba",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1960,
+      "sede": "Ciudad de Panamá, Panamá",
+      "campeon": "Elefantes de Cienfuegos",
+      "pais_campeon": "Cuba",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1970,
+      "sede": "Caracas, Venezuela",
+      "campeon": "Navegantes del Magallanes",
+      "pais_campeon": "Venezuela",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1971,
+      "sede": "San Juan, Puerto Rico",
+      "campeon": "Tigres del Licey",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Tigres del Licey (República Dominicana)",
+        "Naranjeros de Hermosillo (México)",
+        "Cangrejeros de Santurce (Puerto Rico)",
+        "Tiburones de La Guaira (Venezuela)"
+      ],
+      "resultado_final": "Campeón invicto: Tigres del Licey (6 ganados, 0 perdidos). Los otros tres equipos terminaron 2–4; no hubo partido final único.",
+      "fuentes": [
+        {
+          "tipo": "historial de la edición",
+          "titulo": "Serie del Caribe — Edición 1971",
+          "url": "https://caribbeanseries.com/history/1971"
+        },
+        {
+          "tipo": "estadística histórica",
+          "titulo": "Baseball-Reference Bullpen — 1971 Caribbean Series",
+          "url": "https://www.baseball-reference.com/bullpen/1971_Caribbean_Series"
+        },
+        {
+          "tipo": "historia del club",
+          "titulo": "Licey — Historia de sus campeonatos caribeños",
+          "url": "https://www.licey.com/licey-es-el-equipo-mas-ganador-en-las-series-del-caribe/"
+        },
+        {
+          "tipo": "fuente específica del premio",
+          "titulo": "MLB — Mota recuerda su éxito en la Serie del Caribe",
+          "url": "https://www.mlb.com/es/amp/news/mota-recuerda-su-exito-en-la-serie-del-caribe.html"
+        }
+      ],
+      "estado": "Equipos participantes, formato y marca final del campeón contrastados con referencias específicas de la edición; resultados de cada juego aún no incorporados. Jugador Más Valioso contrastado con una fuente específica de la edición.",
+      "formato": "Todos contra todos, sin final única.",
+      "dirigente_campeon": "Manny Mota",
+      "jugador_mas_valioso": "Manny Mota"
+    },
+    {
+      "anio": 1972,
+      "sede": "Santo Domingo, República Dominicana",
+      "campeon": "Leones de Ponce",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1973,
+      "sede": "Caracas, Venezuela",
+      "campeon": "Tigres del Licey",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Tigres del Licey (República Dominicana)",
+        "Representante de Obregón (México)",
+        "Representante de Caracas (Venezuela)",
+        "Representante de Santurce (Puerto Rico)"
+      ],
+      "resultado_final": "Licey campeón, 5 victorias y 1 derrota; campeonato por clasificación, sin partido final único.",
+      "fuentes": [
+        {
+          "tipo": "historia institucional de club",
+          "titulo": "Tigres del Licey — Historial de títulos caribeños",
+          "url": "https://www.licey.com/licey-es-el-equipo-mas-ganador-en-las-series-del-caribe/"
+        }
+      ],
+      "estado": "Campeón, participantes o representantes y desenlace documentados con fuentes del club y/o liga. Algunas denominaciones de equipos se mantienen como representantes de ciudad cuando falta verificar el nombre exacto. No se incluyen resultados de todos los partidos.",
+      "dirigente_campeon": "Tommy Lasorda",
+      "formato": "Todos contra todos."
+    },
+    {
+      "anio": 1974,
+      "sede": "Hermosillo, México",
+      "campeon": "Criollos de Caguas",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1975,
+      "sede": "San Juan, Puerto Rico",
+      "campeon": "Vaqueros de Bayamón",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1976,
+      "sede": "Santo Domingo y Santiago, República Dominicana",
+      "campeon": "Naranjeros de Hermosillo",
+      "pais_campeon": "México",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1977,
+      "sede": "Caracas, Venezuela",
+      "campeon": "Tigres del Licey",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Tigres del Licey (República Dominicana)",
+        "Representante de Caguas (Puerto Rico)",
+        "Representante de Mazatlán (México)",
+        "Navegantes del Magallanes (Venezuela)"
+      ],
+      "resultado_final": "Licey campeón invicto, 6 victorias y 0 derrotas; sin partido final único.",
+      "fuentes": [
+        {
+          "tipo": "historia institucional de club",
+          "titulo": "Tigres del Licey — Historial de títulos caribeños",
+          "url": "https://www.licey.com/licey-es-el-equipo-mas-ganador-en-las-series-del-caribe/"
+        }
+      ],
+      "estado": "Campeón, participantes o representantes y desenlace documentados con fuentes del club y/o liga. Algunas denominaciones de equipos se mantienen como representantes de ciudad cuando falta verificar el nombre exacto. No se incluyen resultados de todos los partidos.",
+      "dirigente_campeon": "Buck Rodgers",
+      "formato": "Todos contra todos."
+    },
+    {
+      "anio": 1978,
+      "sede": "Mazatlán, México",
+      "campeon": "Indios de Mayagüez",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1979,
+      "sede": "San Juan, Puerto Rico",
+      "campeon": "Navegantes del Magallanes",
+      "pais_campeon": "Venezuela",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1980,
+      "sede": "Santo Domingo, República Dominicana",
+      "campeon": "Tigres del Licey",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Tigres del Licey (República Dominicana)",
+        "Representante de Hermosillo (México)",
+        "Representante de Bayamón (Puerto Rico)",
+        "Representante de Caracas (Venezuela)"
+      ],
+      "resultado_final": "Licey campeón con marca de 4 victorias y 2 derrotas; sin partido final único.",
+      "fuentes": [
+        {
+          "tipo": "historia institucional de club",
+          "titulo": "Tigres del Licey — Historial de títulos caribeños",
+          "url": "https://www.licey.com/licey-es-el-equipo-mas-ganador-en-las-series-del-caribe/"
+        }
+      ],
+      "estado": "Campeón, participantes o representantes y desenlace documentados con fuentes del club y/o liga. Algunas denominaciones de equipos se mantienen como representantes de ciudad cuando falta verificar el nombre exacto. No se incluyen resultados de todos los partidos.",
+      "dirigente_campeon": "Del Crandall",
+      "formato": "Todos contra todos."
+    },
+    {
+      "anio": 1982,
+      "sede": "Hermosillo, México",
+      "campeon": "Leones del Caracas",
+      "pais_campeon": "Venezuela",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1983,
+      "sede": "Caracas, Venezuela",
+      "campeon": "Lobos de Arecibo",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1984,
+      "sede": "San Juan, Puerto Rico",
+      "campeon": "Águilas del Zulia",
+      "pais_campeon": "Venezuela",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1985,
+      "sede": "Mazatlán, México",
+      "campeon": "Tigres del Licey",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Tigres del Licey (República Dominicana)",
+        "Representante de San Juan (Puerto Rico)",
+        "Representante de La Guaira (Venezuela)",
+        "Representante de Culiacán (México)"
+      ],
+      "resultado_final": "Licey campeón con marca de 5 victorias y 1 derrota; sin partido final único.",
+      "fuentes": [
+        {
+          "tipo": "historia institucional de club",
+          "titulo": "Tigres del Licey — Historial de títulos caribeños",
+          "url": "https://www.licey.com/licey-es-el-equipo-mas-ganador-en-las-series-del-caribe/"
+        }
+      ],
+      "estado": "Campeón, participantes o representantes y desenlace documentados con fuentes del club y/o liga. Algunas denominaciones de equipos se mantienen como representantes de ciudad cuando falta verificar el nombre exacto. No se incluyen resultados de todos los partidos.",
+      "formato": "Todos contra todos."
+    },
+    {
+      "anio": 1986,
+      "sede": "Maracaibo, Venezuela",
+      "campeon": "Águilas de Mexicali",
+      "pais_campeon": "México",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1987,
+      "sede": "Hermosillo, México",
+      "campeon": "Criollos de Caguas",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1988,
+      "sede": "Santo Domingo, República Dominicana",
+      "campeon": "Leones del Escogido",
+      "pais_campeon": "República Dominicana",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1989,
+      "sede": "San Juan, Puerto Rico",
+      "campeon": "Águilas del Zulia",
+      "pais_campeon": "Venezuela",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1990,
+      "sede": "Miami, Estados Unidos",
+      "campeon": "Leones del Escogido",
+      "pais_campeon": "República Dominicana",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1991,
+      "sede": "Miami, Estados Unidos",
+      "campeon": "Tigres del Licey",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Tigres del Licey (República Dominicana)",
+        "Representante de Santurce (Puerto Rico)",
+        "Representante de Tijuana (México)",
+        "Representante de Lara (Venezuela)"
+      ],
+      "resultado_final": "Licey campeón invicto con 5 victorias y 0 derrotas; edición sin final única.",
+      "fuentes": [
+        {
+          "tipo": "historia institucional de club",
+          "titulo": "Tigres del Licey — Historial de títulos caribeños",
+          "url": "https://www.licey.com/licey-es-el-equipo-mas-ganador-en-las-series-del-caribe/"
+        }
+      ],
+      "estado": "Campeón, participantes o representantes y desenlace documentados con fuentes del club y/o liga. Algunas denominaciones de equipos se mantienen como representantes de ciudad cuando falta verificar el nombre exacto. No se incluyen resultados de todos los partidos.",
+      "dirigente_campeon": "John Roseboro",
+      "formato": "Todos contra todos."
+    },
+    {
+      "anio": 1992,
+      "sede": "Hermosillo, México",
+      "campeon": "Indios de Mayagüez",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1993,
+      "sede": "Mazatlán, México",
+      "campeon": "Cangrejeros de Santurce",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1994,
+      "sede": "Puerto La Cruz, Venezuela",
+      "campeon": "Tigres del Licey",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Tigres del Licey (República Dominicana)",
+        "Representante de Hermosillo (México)",
+        "Representante de San Juan (Puerto Rico)",
+        "Navegantes del Magallanes (Venezuela)"
+      ],
+      "resultado_final": "Licey campeón con 5 victorias y 1 derrota; edición sin final única.",
+      "fuentes": [
+        {
+          "tipo": "historia institucional de club",
+          "titulo": "Tigres del Licey — Historial de títulos caribeños",
+          "url": "https://www.licey.com/licey-es-el-equipo-mas-ganador-en-las-series-del-caribe/"
+        }
+      ],
+      "estado": "Campeón, participantes o representantes y desenlace documentados con fuentes del club y/o liga. Algunas denominaciones de equipos se mantienen como representantes de ciudad cuando falta verificar el nombre exacto. No se incluyen resultados de todos los partidos.",
+      "dirigente_campeon": "Casey Parsons",
+      "formato": "Todos contra todos."
+    },
+    {
+      "anio": 1995,
+      "sede": "San Juan, Puerto Rico",
+      "campeon": "Senadores de San Juan",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1996,
+      "sede": "Santo Domingo, República Dominicana",
+      "campeon": "Tomateros de Culiacán",
+      "pais_campeon": "México",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1997,
+      "sede": "Hermosillo, México",
+      "campeon": "Águilas Cibaeñas",
+      "pais_campeon": "República Dominicana",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1998,
+      "sede": "Puerto La Cruz, Venezuela",
+      "campeon": "Águilas Cibaeñas",
+      "pais_campeon": "República Dominicana",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 1999,
+      "sede": "San Juan, Puerto Rico",
+      "campeon": "Tigres del Licey",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Tigres del Licey (República Dominicana)",
+        "Representante de Mayagüez (Puerto Rico)",
+        "Representante de Lara (Venezuela)",
+        "Representante de Mexicali (México)"
+      ],
+      "resultado_final": "Licey campeón tras vencer al representante de Mayagüez en un juego de desempate; el marcador de ese partido no está consignado en esta ficha.",
+      "fuentes": [
+        {
+          "tipo": "historia institucional de club",
+          "titulo": "Tigres del Licey — Historial de títulos caribeños",
+          "url": "https://www.licey.com/licey-es-el-equipo-mas-ganador-en-las-series-del-caribe/"
+        }
+      ],
+      "estado": "Campeón, participantes o representantes y desenlace documentados con fuentes del club y/o liga. Algunas denominaciones de equipos se mantienen como representantes de ciudad cuando falta verificar el nombre exacto. No se incluyen resultados de todos los partidos.",
+      "dirigente_campeon": "Dave Jauss",
+      "formato": "Todos contra todos con juego de desempate."
+    },
+    {
+      "anio": 2000,
+      "sede": "Santo Domingo, República Dominicana",
+      "campeon": "Cangrejeros de Santurce",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2001,
+      "sede": "Culiacán, México",
+      "campeon": "Águilas Cibaeñas",
+      "pais_campeon": "República Dominicana",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2002,
+      "sede": "Caracas, Venezuela",
+      "campeon": "Tomateros de Culiacán",
+      "pais_campeon": "México",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2003,
+      "sede": "Carolina, Puerto Rico",
+      "campeon": "Águilas Cibaeñas",
+      "pais_campeon": "República Dominicana",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2004,
+      "sede": "Santo Domingo, República Dominicana",
+      "campeon": "Tigres del Licey",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Tigres del Licey (República Dominicana)",
+        "Representante de Culiacán (México)",
+        "Representante de Aragua (Venezuela)",
+        "Representante de Ponce (Puerto Rico)"
+      ],
+      "resultado_final": "Licey campeón con récord de 5 victorias y 1 derrota; Culiacán terminó 4–2, Aragua 3–3 y Ponce 0–6.",
+      "fuentes": [
+        {
+          "tipo": "historia institucional de club",
+          "titulo": "Tigres del Licey — Historial de títulos caribeños",
+          "url": "https://www.licey.com/licey-es-el-equipo-mas-ganador-en-las-series-del-caribe/"
+        }
+      ],
+      "estado": "Campeón, participantes o representantes y desenlace documentados con fuentes del club y/o liga. Algunas denominaciones de equipos se mantienen como representantes de ciudad cuando falta verificar el nombre exacto. No se incluyen resultados de todos los partidos. Jugador Más Valioso contrastado con una fuente específica de la edición.",
+      "dirigente_campeon": "Manny Acta",
+      "formato": "Todos contra todos.",
+      "jugador_mas_valioso": "Francisco Beltrán"
+    },
+    {
+      "anio": 2005,
+      "sede": "Mazatlán, México",
+      "campeon": "Venados de Mazatlán",
+      "pais_campeon": "México",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2006,
+      "sede": "Valencia y Maracay, Venezuela",
+      "campeon": "Leones del Caracas",
+      "pais_campeon": "Venezuela",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2007,
+      "sede": "Carolina, Puerto Rico",
+      "campeon": "Águilas Cibaeñas",
+      "pais_campeon": "República Dominicana",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2008,
+      "sede": "Santiago de los Caballeros, República Dominicana",
+      "campeon": "Tigres del Licey",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Tigres del Licey (República Dominicana)",
+        "Águilas Cibaeñas (República Dominicana)",
+        "Tigres de Aragua (Venezuela)",
+        "Yaquis de Obregón (México)"
+      ],
+      "resultado_final": "Licey campeón con 5 victorias y 1 derrota; Águilas 3–3, Aragua y Obregón 2–4.",
+      "fuentes": [
+        {
+          "tipo": "historia institucional de club",
+          "titulo": "Tigres del Licey — Historial de títulos caribeños",
+          "url": "https://www.licey.com/licey-es-el-equipo-mas-ganador-en-las-series-del-caribe/"
+        },
+        {
+          "tipo": "tabla de clasificación y equipos de la edición",
+          "titulo": "Baseball-Reference BR Bullpen — 2008 Caribbean Series",
+          "url": "https://www.baseball-reference.com/bullpen/2008_Serie_del_Caribe"
+        },
+        {
+          "tipo": "crónica deportiva histórica",
+          "titulo": "Diario Libre — 2008, Licey campeón ante las Águilas",
+          "url": "https://www.diariolibre.com/deportes/columnistas/2023/02/03/2008-el-ano-licey-gano-la-serie-del-caribe-ante-las-aguilas/2216264"
+        }
+      ],
+      "estado": "Participantes, clasificación 5–1 / 3–3 / 2–4 / 2–4, dirigente y MVP documentados en fuentes específicas de 2008. No se cargaron resultados detallados de los 12 juegos.",
+      "dirigente_campeon": "Héctor de la Cruz",
+      "formato": "Todos contra todos; Licey participó como segundo representante dominicano ante la ausencia de Puerto Rico.",
+      "jugador_mas_valioso": "Ramón Ortiz"
+    },
+    {
+      "anio": 2009,
+      "sede": "Mexicali, México",
+      "campeon": "Tigres de Aragua",
+      "pais_campeon": "Venezuela",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2010,
+      "sede": "Isla de Margarita, Venezuela",
+      "campeon": "Leones del Escogido",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Leones del Escogido (República Dominicana)",
+        "Indios de Mayagüez (Puerto Rico)",
+        "Naranjeros de Hermosillo (México)",
+        "Leones del Caracas (Venezuela)"
+      ],
+      "resultado_final": "Leones del Escogido campeones con marca de 5–1; Indios de Mayagüez 4–2, Naranjeros de Hermosillo 2–4 y Leones del Caracas 1–5. Título definido por la clasificación general, sin partido final único.",
+      "fuentes": [
+        {
+          "tipo": "registro histórico estadístico",
+          "titulo": "Baseball-Reference — Serie del Caribe 2010",
+          "url": "https://www.baseball-reference.com/bullpen/2010_Caribbean_Series"
+        },
+        {
+          "tipo": "tabla de resultados",
+          "titulo": "Serie del Caribe 2010 — clasificación final",
+          "url": "https://es.wikipedia.org/wiki/Serie_del_Caribe_2010"
+        }
+      ],
+      "estado": "Participantes, clasificación final (5–1), dirigente y MVP respaldados por registros históricos publicados. Falta auditoría individual de los doce juegos.",
+      "formato": "Todos contra todos a doble vuelta; sin final única.",
+      "dirigente_campeon": "Ken Oberkfell",
+      "jugador_mas_valioso": "Fernando Martínez"
+    },
+    {
+      "anio": 2011,
+      "sede": "Mayagüez, Puerto Rico",
+      "campeon": "Yaquis de Ciudad Obregón",
+      "pais_campeon": "México",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2012,
+      "sede": "Santo Domingo, República Dominicana",
+      "campeon": "Leones del Escogido",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Leones del Escogido (República Dominicana)",
+        "Indios de Mayagüez (Puerto Rico)",
+        "Yaquis de Obregón (México)",
+        "Tigres de Aragua (Venezuela)"
+      ],
+      "resultado_final": "Leones del Escogido campeones con marca de 4–2; Indios de Mayagüez y Tigres de Aragua 3–3, Yaquis de Obregón 2–4. El campeonato se definió por tabla de posiciones, sin partido final único.",
+      "fuentes": [
+        {
+          "tipo": "registro histórico estadístico",
+          "titulo": "Baseball-Reference — Serie del Caribe 2012",
+          "url": "https://www.baseball-reference.com/bullpen/2012_Caribbean_Series"
+        },
+        {
+          "tipo": "crónica periodística de la edición",
+          "titulo": "elCaribe — Leones campeones 2012",
+          "url": "https://www.elcaribe.com.do/sin-categoria/los-leones-son-los-reyes-del-caribe/"
+        }
+      ],
+      "estado": "Participantes, clasificación final (4–2), dirigente y MVP respaldados por registros históricos y crónica contemporánea. Falta auditoría individual de los doce juegos.",
+      "formato": "Todos contra todos a doble vuelta; sin final única.",
+      "dirigente_campeon": "Ken Oberkfell",
+      "jugador_mas_valioso": "Jairo Asencio"
+    },
+    {
+      "anio": 2013,
+      "sede": "Hermosillo, México",
+      "campeon": "Yaquis de Ciudad Obregón",
+      "pais_campeon": "México",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2014,
+      "sede": "Isla de Margarita, Venezuela",
+      "campeon": "Naranjeros de Hermosillo",
+      "pais_campeon": "México",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2015,
+      "sede": "San Juan, Puerto Rico",
+      "campeon": "Vegueros de Pinar del Río",
+      "pais_campeon": "Cuba",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2016,
+      "sede": "Santo Domingo, República Dominicana",
+      "campeon": "Venados de Mazatlán",
+      "pais_campeon": "México",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2017,
+      "sede": "Culiacán, México",
+      "campeon": "Criollos de Caguas",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2018,
+      "sede": "Guadalajara, México",
+      "campeon": "Criollos de Caguas",
+      "pais_campeon": "Puerto Rico",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2019,
+      "sede": "Ciudad de Panamá, Panamá",
+      "campeon": "Toros de Herrera",
+      "pais_campeon": "Panamá",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2020,
+      "sede": "San Juan, Puerto Rico",
+      "campeon": "Toros del Este",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Toros del Este (República Dominicana)",
+        "Cangrejeros de Santurce (Puerto Rico)",
+        "Tomateros de Culiacán (México)",
+        "Cardenales de Lara (Venezuela)",
+        "Astronautas de Chiriquí (Panamá)",
+        "Vaqueros de Montería (Colombia)"
+      ],
+      "resultado_final": "Toros del Este campeón con marca de 6–1. Final del 7 de febrero de 2020: Toros del Este 9–3 Cardenales de Lara (Venezuela).",
+      "fuentes": [
+        {
+          "tipo": "guía previa MLB de la edición",
+          "titulo": "MLB — Participantes y formato de San Juan 2020",
+          "url": "https://www.mlb.com/es/news/todo-listo-para-la-gran-fiesta-caribena-en-p-r"
+        },
+        {
+          "tipo": "crónica MLB de campeonato",
+          "titulo": "MLB — Toros del Este campeones 2020",
+          "url": "https://www.mlb.com/es/news/dominicana-vence-a-venezuela-y-se-corona-en-sc"
+        },
+        {
+          "tipo": "crónica institucional de club",
+          "titulo": "Toros del Este — Título caribeño 2020, marca y JMV",
+          "url": "https://torosdeleste.com/noticias-toros-del-este-dan-a-dominicana-su-20-serie-del-caribe.html"
+        }
+      ],
+      "estado": "Participantes, final 9–3, marca 6–1, dirigente y JMV verificados con MLB y el club Toros del Este. No se documentaron aquí los marcadores individuales de todos los juegos.",
+      "formato": "Fase clasificatoria de todos contra todos, semifinales y final.",
+      "dirigente_campeon": "Lino Rivera",
+      "jugador_mas_valioso": "Peter O’Brien"
+    },
+    {
+      "anio": 2021,
+      "sede": "Mazatlán, México",
+      "campeon": "Águilas Cibaeñas",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Águilas Cibaeñas (República Dominicana)",
+        "Criollos de Caguas (Puerto Rico)",
+        "Tomateros de Culiacán (México)",
+        "Caribes de Anzoátegui (Venezuela)",
+        "Federales de Chiriquí (Panamá)",
+        "Caimanes de Barranquilla (Colombia)"
+      ],
+      "resultado_final": "Águilas Cibaeñas campeonas invictas con marca de 7–0. Final del 6 de febrero de 2021: Águilas Cibaeñas 4–1 Criollos de Caguas (Puerto Rico).",
+      "fuentes": [
+        {
+          "tipo": "crónica MLB de campeonato",
+          "titulo": "MLB — Águilas campeonas invictas en 2021",
+          "url": "https://www.mlb.com/es/news/r-d-conquista-su-titulo-21-en-serie-del-caribe"
+        },
+        {
+          "tipo": "crónica institucional de club",
+          "titulo": "Águilas Cibaeñas — Resumen de seis coronas",
+          "url": "https://aguilas.com.do/resumen-de-las-6-coronas-de-las-aguilas-cibaenas-en-serie-del-caribe/"
+        },
+        {
+          "tipo": "tabla de resultados y participantes",
+          "titulo": "Baseball-Reference — Serie del Caribe 2021",
+          "url": "https://www.baseball-reference.com/bullpen/2021_Caribbean_Series"
+        }
+      ],
+      "estado": "Participantes, final 4–1, marca 7–0, dirigente y JMV contrastados con MLB, Águilas Cibaeñas y Baseball-Reference. No se documentaron aquí los marcadores individuales de todos los juegos.",
+      "formato": "Fase clasificatoria de todos contra todos, semifinales y final.",
+      "dirigente_campeon": "Félix Fermín",
+      "jugador_mas_valioso": "Juan Lagares"
+    },
+    {
+      "anio": 2022,
+      "sede": "Santo Domingo, República Dominicana",
+      "campeon": "Caimanes de Barranquilla",
+      "pais_campeon": "Colombia",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2023,
+      "sede": "Caracas y La Guaira, Venezuela",
+      "campeon": "Tigres del Licey",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Tigres del Licey (República Dominicana)",
+        "Leones del Caracas (Venezuela)",
+        "Indios de Mayagüez (Puerto Rico)",
+        "Cañeros de Los Mochis (México)",
+        "Vaqueros de Montería (Colombia)",
+        "Agricultores (Cuba)",
+        "Federales de Chiriquí (Panamá)",
+        "WildCats KJ74 (Curazao)"
+      ],
+      "resultado_final": "Final, 10 de febrero de 2023: Tigres del Licey 3–0 Leones del Caracas.",
+      "fuentes": [
+        {
+          "tipo": "crónica de liga",
+          "titulo": "LIDOM — Licey gana la Serie del Caribe 2023",
+          "url": "https://lidom.com/serie-del-caribe/tigres-del-licey-conquistan-la-serie-del-caribe-y-asi-completan-una-gran-temporada-26033.html"
+        },
+        {
+          "tipo": "guía publicada por MLB",
+          "titulo": "MLB — Equipos de la Serie del Caribe 2023",
+          "url": "https://www.mlb.com/es/news/tras-casi-10-anos-la-serie-del-caribe-regresa-a-venezuela"
+        },
+        {
+          "tipo": "historial institucional de club",
+          "titulo": "Licey — Historia de sus coronas",
+          "url": "https://www.licey.com/licey-es-el-equipo-mas-ganador-en-las-series-del-caribe/"
+        },
+        {
+          "tipo": "fuente específica del premio",
+          "titulo": "Tigres del Licey — César Valdez Jugador Más Valioso",
+          "url": "https://www.licey.com/cesar-valdez-es-nombrado-jugador-mas-valioso-de-la-serie-del-caribe/"
+        }
+      ],
+      "estado": "Campeón, participantes o representantes y desenlace documentados con fuentes del club y/o liga. Algunas denominaciones de equipos se mantienen como representantes de ciudad cuando falta verificar el nombre exacto. No se incluyen resultados de todos los partidos. Jugador Más Valioso contrastado con una fuente específica de la edición.",
+      "dirigente_campeon": "José Offerman",
+      "formato": "Todos contra todos, semifinales y final.",
+      "jugador_mas_valioso": "César Valdez"
+    },
+    {
+      "anio": 2024,
+      "sede": "Miami, Estados Unidos",
+      "campeon": "Tiburones de La Guaira",
+      "pais_campeon": "Venezuela",
+      "participantes": null,
+      "resultado_final": null,
+      "fuentes": [
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        },
+        {
+          "tipo": "recopilación periodística",
+          "titulo": "Sporting News — Campeones por edición",
+          "url": "https://www.sportingnews.com/mx/beisbol/news/quien-ganado-mas-serie-del-caribe-lista-campeones/qhljnohyaqyi91gs6c8edfdl"
+        }
+      ],
+      "estado": "Campeón, país y sede contrastados en recopilaciones; falta contraste primario por edición."
+    },
+    {
+      "anio": 2025,
+      "sede": "Mexicali, México",
+      "campeon": "Leones del Escogido",
+      "pais_campeon": "República Dominicana",
+      "participantes": [
+        "Leones del Escogido (República Dominicana)",
+        "Charros de Jalisco (México)",
+        "Indios de Mayagüez (Puerto Rico)",
+        "Cardenales de Lara (Venezuela)",
+        "Japan Breeze (Japón; invitado)"
+      ],
+      "resultado_final": "Final, 7 de febrero de 2025: Leones del Escogido 1–0 Charros de Jalisco.",
+      "fuentes": [
+        {
+          "tipo": "crónica de MLB",
+          "titulo": "MLB — Dominicana gana 1–0 la final de 2025",
+          "url": "https://www.mlb.com/es/news/dominicana-blanquea-a-mexico-y-se-lleva-su-23er-titulo-en-serie-del-caribe"
+        },
+        {
+          "tipo": "guía de la edición",
+          "titulo": "MLB — Equipos participantes, incluida Japón",
+          "url": "https://www.mlb.com/es/news/todo-listo-para-la-serie-del-caribe-con-un-elemento-inedito"
+        },
+        {
+          "tipo": "historial de la edición",
+          "titulo": "Serie del Caribe — Edición 2025",
+          "url": "https://caribbeanseries.com/history/2025"
+        },
+        {
+          "tipo": "fuente específica del premio",
+          "titulo": "MLB — Esmil Rogers JMV de Mexicali 2025",
+          "url": "https://www.mlb.com/es/amp/news/esmil-rogers-jugador-mas-valioso-de-la-serie-del-caribe-mexicali-2025.html"
+        }
+      ],
+      "estado": "Participantes y final documentados mediante crónica y guía específicas de 2025; resultados completos de los demás partidos no incorporados. Jugador Más Valioso contrastado con una fuente específica de la edición.",
+      "formato": "Todos contra todos, semifinales y final.",
+      "dirigente_campeon": "Albert Pujols",
+      "jugador_mas_valioso": "Esmil Rogers"
+    },
+    {
+      "anio": 2026,
+      "sede": "Zapopan (Guadalajara), México",
+      "campeon": "Charros de Jalisco",
+      "pais_campeon": "México",
+      "participantes": [
+        "Charros de Jalisco (México)",
+        "Tomateros de Culiacán (México)",
+        "Leones del Escogido (República Dominicana)",
+        "Cangrejeros de Santurce (Puerto Rico)",
+        "Federales de Chiriquí (Panamá)"
+      ],
+      "resultado_final": "Charros de Jalisco 12–11 Tomateros de Culiacán (10 entradas)",
+      "fuentes": [
+        {
+          "tipo": "crónica MLB",
+          "titulo": "MLB — Charros campeones de 2026",
+          "url": "https://www.mlb.com/es/news/charros-de-jalisco-conquistan-su-primer-titulo-de-la-serie-del-caribe"
+        },
+        {
+          "tipo": "anuncio CBPC",
+          "titulo": "CBPC — Sede de 2026",
+          "url": "https://seriedelcaribe.net/noticias/jalisco-sede-oficial-de-la-serie-del-caribe-2026"
+        },
+        {
+          "tipo": "recopilación histórica",
+          "titulo": "Conéctate — Campeones desde 1949",
+          "url": "https://www.conectate.com.do/articulo/serie-del-caribe/"
+        }
+      ],
+      "estado": "Campeón y resultado final respaldados por MLB; sede anunciada por CBPC; participantes según recopilación del torneo."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "edicion": 2023,
+  "seleccion": "República Dominicana",
+  "grupo": "D",
+  "sede": "Miami, Estados Unidos",
+  "dirigente": "Rodney Linares",
+  "ganados": 2,
+  "perdidos": 2,
+  "puesto_grupo": 3,
+  "fase": "Primera ronda",
+  "partidos": [
+    {
+      "fecha": "2023-03-11",
+      "rival": "Venezuela",
+      "carreras_rd": 1,
+      "carreras_rival": 5
+    },
+    {
+      "fecha": "2023-03-13",
+      "rival": "Nicaragua",
+      "carreras_rd": 6,
+      "carreras_rival": 1
+    },
+    {
+      "fecha": "2023-03-14",
+      "rival": "Israel",
+      "carreras_rd": 10,
+      "carreras_rival": 0,
+      "entradas": 7
+    },
+    {
+      "fecha": "2023-03-15",
+      "rival": "Puerto Rico",
+      "carreras_rd": 2,
+      "carreras_rival": 5
+    }
+  ],
+  "fuentes": [
+    "https://www.mlb.com/world-baseball-classic/history/2023",
+    "https://www.mlb.com/es/world-baseball-classic/stats/dominican-republic/2023",
+    "https://www.mlb.com/es/news/rodney-linares-sera-dirigente-de-dominicana-en-el-clasico"
+  ],
+  "alcance": "Solo resultados colectivos; no confundir nómina inicial con actuaciones de jugadores."
+}

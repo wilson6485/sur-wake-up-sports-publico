@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2006,
+    "wins": 5,
+    "losses": 2,
+    "games": 7,
+    "stage": "Semifinales",
+    "note": "Llegó a semifinales; cayó 3–1 ante Cuba.",
+    "results_source": "https://www.mlb.com/world-baseball-classic/history/2006",
+    "players_source": "https://www.mlb.com/es/world-baseball-classic/stats/dominican-republic/2006"
+  },
+  {
+    "year": 2009,
+    "wins": 1,
+    "losses": 2,
+    "games": 3,
+    "stage": "Primera ronda",
+    "note": "Eliminada en la fase inicial por Países Bajos.",
+    "results_source": "https://www.mlb.com/world-baseball-classic/history/2009",
+    "players_source": "https://www.mlb.com/es/world-baseball-classic/stats/dominican-republic/2009"
+  },
+  {
+    "year": 2013,
+    "wins": 8,
+    "losses": 0,
+    "games": 8,
+    "stage": "Campeón",
+    "note": "Título invicto; victoria 3–0 sobre Puerto Rico en la final.",
+    "results_source": "https://www.mlb.com/world-baseball-classic/history/2013",
+    "players_source": "https://www.mlb.com/es/world-baseball-classic/stats/dominican-republic/2013"
+  },
+  {
+    "year": 2017,
+    "wins": 4,
+    "losses": 2,
+    "games": 6,
+    "stage": "Segunda ronda",
+    "note": "Eliminada tras la derrota 6–3 ante Estados Unidos.",
+    "results_source": "https://www.mlb.com/world-baseball-classic/history/2017",
+    "players_source": "https://www.mlb.com/es/world-baseball-classic/stats/dominican-republic/2017"
+  },
+  {
+    "year": 2023,
+    "wins": 2,
+    "losses": 2,
+    "games": 4,
+    "stage": "Primera ronda",
+    "note": "No avanzó del Grupo D; terminó con marca 2–2.",
+    "results_source": "https://www.mlb.com/world-baseball-classic/history/2023",
+    "players_source": "https://www.mlb.com/es/world-baseball-classic/stats/dominican-republic/2023"
+  },
+  {
+    "year": 2026,
+    "wins": 5,
+    "losses": 1,
+    "games": 6,
+    "stage": "Semifinales",
+    "note": "Cayó 2–1 ante Estados Unidos en semifinales.",
+    "results_source": "https://www.mlb.com/world-baseball-classic/history/2026",
+    "players_source": "https://www.mlb.com/es/world-baseball-classic/stats/dominican-republic/2026"
+  }
+]

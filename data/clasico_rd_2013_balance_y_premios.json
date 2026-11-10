@@ -1,0 +1,66 @@
+{
+  "edicion": 2013,
+  "pais": "República Dominicana",
+  "lanzamiento_colectivo": {
+    "JJ": 8,
+    "G": 8,
+    "P": 0,
+    "ERA": "1.75",
+    "IP": "72.0",
+    "H": 42,
+    "C": 14,
+    "ER": 14,
+    "BB": 31,
+    "K": 65,
+    "WHIP": "1.01",
+    "SV": 7
+  },
+  "seleccion_ideal": [
+    {
+      "jugador": "Robinson Canó",
+      "distinciones": [
+        "MVP del torneo",
+        "Segunda base"
+      ]
+    },
+    {
+      "jugador": "Fernando Rodney",
+      "distinciones": [
+        "Lanzador"
+      ]
+    },
+    {
+      "jugador": "Edwin Encarnación",
+      "distinciones": [
+        "Primera base"
+      ]
+    },
+    {
+      "jugador": "José Reyes",
+      "distinciones": [
+        "Campocorto"
+      ]
+    },
+    {
+      "jugador": "Nelson Cruz",
+      "distinciones": [
+        "Jardinero"
+      ]
+    }
+  ],
+  "nota": "El desempeño colectivo de lanzadores no se reparte entre jugadores ni sustituye estadísticas individuales pendientes. Los reconocimientos corresponden al equipo ideal del torneo, distinto de la nómina inicial.",
+  "fuentes": [
+    {
+      "titulo": "Baseball-Reference · resumen de pitcheo por selección 2013",
+      "url": "https://www.baseball-reference.com/bullpen/2013_World_Baseball_Classic"
+    },
+    {
+      "titulo": "MLB · Historia oficial del Clásico Mundial 2013 y selección ideal",
+      "url": "https://www.mlb.com/world-baseball-classic/history/2013"
+    },
+    {
+      "titulo": "MLB · Final de 2013",
+      "url": "https://www.mlb.com/world-baseball-classic/news/world-baseball-classic-championship-game-history"
+    }
+  ]
+}

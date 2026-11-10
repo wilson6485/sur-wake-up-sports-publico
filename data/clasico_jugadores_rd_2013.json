@@ -1,0 +1,32 @@
+{
+  "version": "3.140",
+  "competicion": "Clásico Mundial de Béisbol",
+  "edicion": 2013,
+  "pais": "República Dominicana",
+  "alcance": "Estadística individual de una edición, sin agregar otras competiciones",
+  "jugadores": [
+    {
+      "nombre": "Robinson Canó",
+      "posicion": "2B",
+      "mvp_torneo": true,
+      "JJ": 8,
+      "VB": 32,
+      "C": 6,
+      "H": 15,
+      "dobles": 4,
+      "triples": 0,
+      "HR": 2,
+      "RBI": 6,
+      "BB": 3,
+      "K": 7,
+      "AVG": ".469",
+      "OBP": ".514",
+      "SLG": ".781",
+      "OPS_publicado_MLB": "1.295",
+      "fuentes": [
+        "https://www.mlb.com/world-baseball-classic/stats/dominican-republic/2013",
+        "https://www.mlb.com/news/domi-nation-dr-runs-table-en-route-to-world-baseball-classic-title/c-42998208"
+      ]
+    }
+  ]
+}
