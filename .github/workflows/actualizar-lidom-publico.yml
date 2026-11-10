@@ -1,0 +1,89 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '2-59/5 * * * *'
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: swu-publicacion-lidom
+  cancel-in-progress: false
+
+jobs:
+  actualizar-y-publicar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Obtener el sitio publicado
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias de la fuente estadistica
+        run: python -m pip install requests
+
+      - name: Sincronizar los seis equipos de LIDOM
+        run: python connectors/sync_lidom_live.py
+
+      - name: Verificar datos antes de publicar
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p = Path('data/source_cache/lidom_live.json')
+          d = json.loads(p.read_text(encoding='utf-8'))
+          assert d.get('schema_version') == 1, 'Esquema de datos inesperado'
+          assert d.get('fetched_at_utc'), 'No existe fecha verificable de actualizacion'
+          assert isinstance(d.get('games'), list), 'No hay lista de partidos'
+          assert isinstance(d.get('standings'), list), 'No hay tabla de posiciones'
+          assert len({r.get('team') for r in d['standings']}) == 6, 'No se reconocieron los seis equipos'
+          js = Path('data/source_cache/lidom_live_data.js')
+          assert js.is_file() and js.stat().st_size > 50, 'Falta el respaldo JavaScript'
+          print('Datos validados:', d['fetched_at_utc'], len(d['games']), 'partidos')
+          PY
+
+      - name: Guardar el nuevo corte deportivo en el repositorio publico
+        shell: bash
+        run: |
+          git config user.name 'Sur Wake Up Datos'
+          git config user.email 'actions@users.noreply.github.com'
+          git add data/source_cache/lidom_live.json data/source_cache/lidom_live_data.js
+          if ! git diff --cached --quiet; then
+            git commit -m 'Actualizar datos publicos LIDOM'
+            git push
+          else
+            echo 'Datos sin cambios; se publicara el corte existente.'
+          fi
+
+      - name: Preparar solo los archivos autorizados para el sitio
+        shell: bash
+        run: |
+          test -s index.html
+          mkdir -p _site
+          cp index.html _site/index.html
+          if [ -f logo-sur-wake-up.png ]; then cp logo-sur-wake-up.png _site/; fi
+          if [ -d data ]; then cp -R data _site/data; fi
+          touch _site/.nojekyll
+
+      - name: Preparar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Empaquetar pagina publica
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Publicar pagina y datos deportivos
+        id: deploy
+        uses: actions/deploy-pages@v4
