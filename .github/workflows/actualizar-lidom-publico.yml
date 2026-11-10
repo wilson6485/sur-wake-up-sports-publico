@@ -72,6 +72,7 @@ jobs:
           test -s index.html
           mkdir -p _site
           cp index.html _site/index.html
+          cp laboratorio-statcast.html _site/laboratorio-statcast.html
           if [ -f logo-sur-wake-up.png ]; then cp logo-sur-wake-up.png _site/; fi
           if [ -d data ]; then cp -R data _site/data; fi
           touch _site/.nojekyll
