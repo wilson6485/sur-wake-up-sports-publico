@@ -725,6 +725,10 @@ window.SWU_DATA_LIBRARY={"version":"1.5","updated":"2026-11-05","sources":{"MLB"
 </style><style id="swu-nav-tooltips">
 /* Sur Wake Up · Ayudas contextuales de navegación (PC, teclado y móvil) */
 .nav .swu-nav-entry{position:relative;display:inline-flex;align-items:center;isolation:isolate;gap:1px}
+/* Elevar la tarjeta completa: el z-index del globo no supera por sí solo
+   el contexto de apilamiento creado por isolation:isolate en cada entrada. */
+.nav .swu-nav-entry{z-index:0}
+.nav .swu-nav-entry:hover,.nav .swu-nav-entry:focus-within,.nav .swu-nav-entry.swu-tip-open{z-index:100}
 .nav .swu-nav-entry>[data-go]{flex:0 1 auto}
 .nav .swu-nav-help{font:700 13px/1 system-ui,sans-serif;background:transparent;border:1px solid #385876;border-radius:50%;color:#a9d8f9;width:22px;height:22px;padding:0;display:inline-grid;place-items:center;cursor:pointer;flex:none}
 .nav .swu-nav-help:hover,.nav .swu-nav-help:focus-visible,.nav .swu-nav-help[aria-expanded="true"]{color:#fff;background:#224f7c;border-color:#88caef}
