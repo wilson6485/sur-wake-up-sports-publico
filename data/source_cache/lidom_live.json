@@ -1,52 +1,19 @@
 {
   "schema_version": 1,
-  "fetched_at_utc": "2026-11-11T00:55:12.974655+00:00",
+  "fetched_at_utc": "2026-11-11T07:23:26.050483+00:00",
   "source_name": "MLB Stats API · LIDOM (liga 131)",
   "source_url": "https://statsapi.mlb.com/api/v1/schedule",
-  "local_date": "2026-11-10",
+  "local_date": "2026-11-11",
   "games": [
-    {
-      "date": "09/11/2026 05:00 PM",
-      "local_game_date": "2026-11-09",
-      "away": "ESC",
-      "home": "TOR",
-      "state": "final",
-      "away_score": 5,
-      "home_score": 2,
-      "detail": "Final",
-      "game_pk": 851433
-    },
-    {
-      "date": "09/11/2026 05:00 PM",
-      "local_game_date": "2026-11-09",
-      "away": "AGU",
-      "home": "LIC",
-      "state": "final",
-      "away_score": 6,
-      "home_score": 8,
-      "detail": "Final",
-      "game_pk": 851453
-    },
-    {
-      "date": "09/11/2026 05:00 PM",
-      "local_game_date": "2026-11-09",
-      "away": "EST",
-      "home": "GIG",
-      "state": "final",
-      "away_score": 6,
-      "home_score": 3,
-      "detail": "Final",
-      "game_pk": 851508
-    },
     {
       "date": "10/11/2026 07:30 PM",
       "local_game_date": "2026-11-10",
       "away": "GIG",
       "home": "LIC",
-      "state": "live",
-      "away_score": 2,
-      "home_score": 1,
-      "detail": "Bottom 4th",
+      "state": "final",
+      "away_score": 5,
+      "home_score": 4,
+      "detail": "Final",
       "game_pk": 851452
     },
     {
@@ -54,10 +21,10 @@
       "local_game_date": "2026-11-10",
       "away": "ESC",
       "home": "EST",
-      "state": "live",
-      "away_score": 8,
-      "home_score": 1,
-      "detail": "Top 4th",
+      "state": "final",
+      "away_score": 10,
+      "home_score": 2,
+      "detail": "Final",
       "game_pk": 851527
     },
     {
@@ -108,35 +75,35 @@
   "standings": [
     {
       "team": "ESC",
-      "wins": 13,
+      "wins": 14,
       "losses": 6,
-      "pct": 0.684,
-      "streak": "W1",
+      "pct": 0.7,
+      "streak": "W2",
       "games_back": "—"
     },
     {
       "team": "LIC",
       "wins": 13,
-      "losses": 6,
-      "pct": 0.684,
-      "streak": "W3",
-      "games_back": "0.0"
+      "losses": 7,
+      "pct": 0.65,
+      "streak": "L1",
+      "games_back": "1.0"
     },
     {
       "team": "GIG",
-      "wins": 9,
+      "wins": 10,
       "losses": 10,
-      "pct": 0.474,
-      "streak": "L1",
+      "pct": 0.5,
+      "streak": "W1",
       "games_back": "4.0"
     },
     {
       "team": "EST",
       "wins": 8,
-      "losses": 10,
-      "pct": 0.444,
-      "streak": "W1",
-      "games_back": "4.5"
+      "losses": 11,
+      "pct": 0.421,
+      "streak": "L1",
+      "games_back": "5.5"
     },
     {
       "team": "TOR",
@@ -144,7 +111,7 @@
       "losses": 12,
       "pct": 0.368,
       "streak": "L1",
-      "games_back": "6.0"
+      "games_back": "6.5"
     },
     {
       "team": "AGU",
@@ -152,7 +119,7 @@
       "losses": 12,
       "pct": 0.333,
       "streak": "L2",
-      "games_back": "6.5"
+      "games_back": "7.0"
     }
   ],
   "standings_complete": true,
