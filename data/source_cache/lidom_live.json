@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "fetched_at_utc": "2026-11-11T22:07:21.590420+00:00",
+  "fetched_at_utc": "2026-11-12T02:54:44.677557+00:00",
   "source_name": "MLB Stats API · LIDOM (liga 131)",
   "source_url": "https://statsapi.mlb.com/api/v1/schedule",
   "local_date": "2026-11-11",
@@ -43,10 +43,10 @@
       "local_game_date": "2026-11-11",
       "away": "TOR",
       "home": "ESC",
-      "state": "scheduled",
-      "away_score": null,
-      "home_score": null,
-      "detail": "Hora RD: 07:15 PM",
+      "state": "live",
+      "away_score": 6,
+      "home_score": 4,
+      "detail": "Bottom 9th",
       "game_pk": 851474
     },
     {
@@ -54,10 +54,10 @@
       "local_game_date": "2026-11-11",
       "away": "GIG",
       "home": "EST",
-      "state": "scheduled",
-      "away_score": null,
-      "home_score": null,
-      "detail": "Hora RD: 07:30 PM",
+      "state": "live",
+      "away_score": 6,
+      "home_score": 8,
+      "detail": "Top 9th",
       "game_pk": 851528
     },
     {
@@ -65,10 +65,10 @@
       "local_game_date": "2026-11-11",
       "away": "LIC",
       "home": "AGU",
-      "state": "scheduled",
-      "away_score": null,
-      "home_score": null,
-      "detail": "Hora RD: 07:30 PM",
+      "state": "final",
+      "away_score": 2,
+      "home_score": 3,
+      "detail": "Final",
       "game_pk": 851561
     }
   ],
@@ -84,10 +84,10 @@
     {
       "team": "LIC",
       "wins": 13,
-      "losses": 7,
-      "pct": 0.65,
-      "streak": "L1",
-      "games_back": "1.0"
+      "losses": 8,
+      "pct": 0.619,
+      "streak": "L2",
+      "games_back": "1.5"
     },
     {
       "team": "GIG",
@@ -106,20 +106,20 @@
       "games_back": "5.5"
     },
     {
+      "team": "AGU",
+      "wins": 7,
+      "losses": 12,
+      "pct": 0.368,
+      "streak": "W1",
+      "games_back": "6.5"
+    },
+    {
       "team": "TOR",
       "wins": 7,
       "losses": 12,
       "pct": 0.368,
       "streak": "L1",
       "games_back": "6.5"
-    },
-    {
-      "team": "AGU",
-      "wins": 6,
-      "losses": 12,
-      "pct": 0.333,
-      "streak": "L2",
-      "games_back": "7.0"
     }
   ],
   "standings_complete": true,
