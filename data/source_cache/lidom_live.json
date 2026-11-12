@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "fetched_at_utc": "2026-11-12T18:30:05.038160+00:00",
+  "fetched_at_utc": "2026-11-12T23:48:20.875276+00:00",
   "source_name": "MLB Stats API · LIDOM (liga 131)",
   "source_url": "https://statsapi.mlb.com/api/v1/schedule",
   "local_date": "2026-11-12",
@@ -43,10 +43,10 @@
       "local_game_date": "2026-11-12",
       "away": "TOR",
       "home": "AGU",
-      "state": "scheduled",
-      "away_score": null,
-      "home_score": null,
-      "detail": "Hora RD: 07:30 PM",
+      "state": "live",
+      "away_score": 0,
+      "home_score": 1,
+      "detail": "Bottom 1st",
       "game_pk": 851562
     },
     {
