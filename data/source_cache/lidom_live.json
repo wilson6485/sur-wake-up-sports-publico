@@ -1,21 +1,10 @@
 {
   "schema_version": 1,
-  "fetched_at_utc": "2026-11-14T03:41:58.915049+00:00",
+  "fetched_at_utc": "2026-11-14T10:56:41.335814+00:00",
   "source_name": "MLB Stats API · LIDOM (liga 131)",
   "source_url": "https://statsapi.mlb.com/api/v1/schedule",
-  "local_date": "2026-11-13",
+  "local_date": "2026-11-14",
   "games": [
-    {
-      "date": "12/11/2026 07:30 PM",
-      "local_game_date": "2026-11-12",
-      "away": "TOR",
-      "home": "AGU",
-      "state": "final",
-      "away_score": 4,
-      "home_score": 7,
-      "detail": "Final",
-      "game_pk": 851562
-    },
     {
       "date": "13/11/2026 07:00 PM",
       "local_game_date": "2026-11-13",
@@ -81,6 +70,39 @@
       "home_score": null,
       "detail": "Hora RD: 07:30 PM",
       "game_pk": 851430
+    },
+    {
+      "date": "15/11/2026 05:00 PM",
+      "local_game_date": "2026-11-15",
+      "away": "EST",
+      "home": "TOR",
+      "state": "scheduled",
+      "away_score": null,
+      "home_score": null,
+      "detail": "Hora RD: 05:00 PM",
+      "game_pk": 851421
+    },
+    {
+      "date": "15/11/2026 05:00 PM",
+      "local_game_date": "2026-11-15",
+      "away": "ESC",
+      "home": "LIC",
+      "state": "scheduled",
+      "away_score": null,
+      "home_score": null,
+      "detail": "Hora RD: 05:00 PM",
+      "game_pk": 851461
+    },
+    {
+      "date": "15/11/2026 05:00 PM",
+      "local_game_date": "2026-11-15",
+      "away": "GIG",
+      "home": "AGU",
+      "state": "scheduled",
+      "away_score": null,
+      "home_score": null,
+      "detail": "Hora RD: 05:00 PM",
+      "game_pk": 851549
     }
   ],
   "standings": [
