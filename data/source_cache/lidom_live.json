@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "fetched_at_utc": "2026-11-16T21:12:30.275162+00:00",
+  "fetched_at_utc": "2026-11-17T03:52:18.283817+00:00",
   "source_name": "MLB Stats API · LIDOM (liga 131)",
   "source_url": "https://statsapi.mlb.com/api/v1/schedule",
   "local_date": "2026-11-16",
@@ -43,10 +43,10 @@
       "local_game_date": "2026-11-16",
       "away": "EST",
       "home": "AGU",
-      "state": "live",
-      "away_score": null,
-      "home_score": null,
-      "detail": "En desarrollo",
+      "state": "final",
+      "away_score": 3,
+      "home_score": 2,
+      "detail": "Final",
       "game_pk": 851559
     },
     {
@@ -102,11 +102,11 @@
     },
     {
       "team": "EST",
-      "wins": 11,
+      "wins": 12,
       "losses": 12,
-      "pct": 0.478,
+      "pct": 0.5,
       "streak": "W2",
-      "games_back": "4.5"
+      "games_back": "4.0"
     },
     {
       "team": "GIG",
@@ -119,10 +119,10 @@
     {
       "team": "AGU",
       "wins": 9,
-      "losses": 13,
-      "pct": 0.409,
+      "losses": 14,
+      "pct": 0.391,
       "streak": "W1",
-      "games_back": "6.0"
+      "games_back": "6.5"
     },
     {
       "team": "TOR",
