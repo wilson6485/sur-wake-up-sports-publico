@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "fetched_at_utc": "2026-11-18T19:14:49.496670+00:00",
+  "fetched_at_utc": "2026-11-19T01:14:41.353746+00:00",
   "source_name": "MLB Stats API · LIDOM (liga 131)",
   "source_url": "https://statsapi.mlb.com/api/v1/schedule",
   "local_date": "2026-11-18",
@@ -43,10 +43,10 @@
       "local_game_date": "2026-11-18",
       "away": "EST",
       "home": "GIG",
-      "state": "scheduled",
-      "away_score": null,
-      "home_score": null,
-      "detail": "Hora RD: 07:00 PM",
+      "state": "live",
+      "away_score": 2,
+      "home_score": 1,
+      "detail": "Top 7th",
       "game_pk": 851503
     },
     {
@@ -54,10 +54,10 @@
       "local_game_date": "2026-11-18",
       "away": "ESC",
       "home": "TOR",
-      "state": "scheduled",
-      "away_score": null,
-      "home_score": null,
-      "detail": "Hora RD: 07:30 PM",
+      "state": "live",
+      "away_score": 2,
+      "home_score": 1,
+      "detail": "Top 6th",
       "game_pk": 851422
     },
     {
@@ -65,10 +65,10 @@
       "local_game_date": "2026-11-18",
       "away": "AGU",
       "home": "LIC",
-      "state": "scheduled",
-      "away_score": null,
-      "home_score": null,
-      "detail": "Hora RD: 07:30 PM",
+      "state": "live",
+      "away_score": 3,
+      "home_score": 0,
+      "detail": "Top 5th",
       "game_pk": 851460
     }
   ],
