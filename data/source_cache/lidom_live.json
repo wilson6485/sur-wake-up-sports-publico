@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "fetched_at_utc": "2026-11-21T02:30:28.037044+00:00",
+  "fetched_at_utc": "2026-11-21T10:06:05.546544+00:00",
   "source_name": "MLB Stats API · LIDOM (liga 131)",
   "source_url": "https://statsapi.mlb.com/api/v1/schedule",
-  "local_date": "2026-11-20",
+  "local_date": "2026-11-21",
   "games": [
     {
       "date": "20/11/2026 07:15 PM",
@@ -21,10 +21,10 @@
       "local_game_date": "2026-11-20",
       "away": "LIC",
       "home": "TOR",
-      "state": "live",
-      "away_score": 6,
+      "state": "final",
+      "away_score": 8,
       "home_score": 4,
-      "detail": "Bottom 6th",
+      "detail": "Final",
       "game_pk": 851429
     },
     {
@@ -32,10 +32,10 @@
       "local_game_date": "2026-11-20",
       "away": "EST",
       "home": "AGU",
-      "state": "live",
-      "away_score": 8,
-      "home_score": 0,
-      "detail": "Top 8th",
+      "state": "final",
+      "away_score": 9,
+      "home_score": 2,
+      "detail": "Final",
       "game_pk": 851554
     },
     {
@@ -70,6 +70,50 @@
       "home_score": null,
       "detail": "Hora RD: 07:30 PM",
       "game_pk": 851524
+    },
+    {
+      "date": "22/11/2026 03:00 PM",
+      "local_game_date": "2026-11-22",
+      "away": "GIG",
+      "home": "AGU",
+      "state": "live",
+      "away_score": null,
+      "home_score": null,
+      "detail": "En desarrollo",
+      "game_pk": 851549
+    },
+    {
+      "date": "22/11/2026 05:00 PM",
+      "local_game_date": "2026-11-22",
+      "away": "ESC",
+      "home": "LIC",
+      "state": "scheduled",
+      "away_score": null,
+      "home_score": null,
+      "detail": "Hora RD: 05:00 PM",
+      "game_pk": 851451
+    },
+    {
+      "date": "22/11/2026 05:00 PM",
+      "local_game_date": "2026-11-22",
+      "away": "TOR",
+      "home": "EST",
+      "state": "scheduled",
+      "away_score": null,
+      "home_score": null,
+      "detail": "Hora RD: 05:00 PM",
+      "game_pk": 851523
+    },
+    {
+      "date": "22/11/2026 05:00 PM",
+      "local_game_date": "2026-11-22",
+      "away": "GIG",
+      "home": "AGU",
+      "state": "scheduled",
+      "away_score": null,
+      "home_score": null,
+      "detail": "Hora RD: 05:00 PM",
+      "game_pk": 851553
     }
   ],
   "standings": [
@@ -83,19 +127,19 @@
     },
     {
       "team": "LIC",
-      "wins": 15,
+      "wins": 16,
       "losses": 11,
-      "pct": 0.577,
-      "streak": "W1",
-      "games_back": "1.5"
+      "pct": 0.593,
+      "streak": "W2",
+      "games_back": "1.0"
     },
     {
       "team": "EST",
-      "wins": 14,
+      "wins": 15,
       "losses": 12,
-      "pct": 0.538,
-      "streak": "W4",
-      "games_back": "2.5"
+      "pct": 0.556,
+      "streak": "W5",
+      "games_back": "2.0"
     },
     {
       "team": "GIG",
@@ -108,18 +152,18 @@
     {
       "team": "TOR",
       "wins": 10,
-      "losses": 16,
-      "pct": 0.385,
-      "streak": "W1",
-      "games_back": "6.5"
+      "losses": 17,
+      "pct": 0.37,
+      "streak": "L1",
+      "games_back": "7.0"
     },
     {
       "team": "AGU",
       "wins": 9,
-      "losses": 16,
-      "pct": 0.36,
-      "streak": "L2",
-      "games_back": "7.0"
+      "losses": 17,
+      "pct": 0.346,
+      "streak": "L3",
+      "games_back": "7.5"
     }
   ],
   "standings_complete": true,
