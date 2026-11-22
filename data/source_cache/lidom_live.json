@@ -1,43 +1,10 @@
 {
   "schema_version": 1,
-  "fetched_at_utc": "2026-11-22T02:16:04.825674+00:00",
+  "fetched_at_utc": "2026-11-22T09:50:56.550301+00:00",
   "source_name": "MLB Stats API · LIDOM (liga 131)",
   "source_url": "https://statsapi.mlb.com/api/v1/schedule",
-  "local_date": "2026-11-21",
+  "local_date": "2026-11-22",
   "games": [
-    {
-      "date": "20/11/2026 07:15 PM",
-      "local_game_date": "2026-11-20",
-      "away": "GIG",
-      "home": "ESC",
-      "state": "final",
-      "away_score": 3,
-      "home_score": 0,
-      "detail": "Final",
-      "game_pk": 851483
-    },
-    {
-      "date": "20/11/2026 07:30 PM",
-      "local_game_date": "2026-11-20",
-      "away": "LIC",
-      "home": "TOR",
-      "state": "final",
-      "away_score": 8,
-      "home_score": 4,
-      "detail": "Final",
-      "game_pk": 851429
-    },
-    {
-      "date": "20/11/2026 07:30 PM",
-      "local_game_date": "2026-11-20",
-      "away": "EST",
-      "home": "AGU",
-      "state": "final",
-      "away_score": 9,
-      "home_score": 2,
-      "detail": "Final",
-      "game_pk": 851554
-    },
     {
       "date": "21/11/2026 05:00 PM",
       "local_game_date": "2026-11-21",
@@ -65,10 +32,10 @@
       "local_game_date": "2026-11-21",
       "away": "AGU",
       "home": "EST",
-      "state": "live",
-      "away_score": 0,
+      "state": "final",
+      "away_score": 1,
       "home_score": 3,
-      "detail": "Bottom 7th",
+      "detail": "Final",
       "game_pk": 851524
     },
     {
@@ -135,11 +102,11 @@
     },
     {
       "team": "EST",
-      "wins": 15,
+      "wins": 16,
       "losses": 12,
-      "pct": 0.556,
-      "streak": "W5",
-      "games_back": "1.5"
+      "pct": 0.571,
+      "streak": "W6",
+      "games_back": "1.0"
     },
     {
       "team": "GIG",
@@ -160,10 +127,10 @@
     {
       "team": "AGU",
       "wins": 9,
-      "losses": 17,
-      "pct": 0.346,
-      "streak": "L3",
-      "games_back": "7.0"
+      "losses": 18,
+      "pct": 0.333,
+      "streak": "L4",
+      "games_back": "7.5"
     }
   ],
   "standings_complete": true,
