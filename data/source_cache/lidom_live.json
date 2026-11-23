@@ -1,43 +1,10 @@
 {
   "schema_version": 1,
-  "fetched_at_utc": "2026-11-23T03:07:00.202566+00:00",
+  "fetched_at_utc": "2026-11-23T12:18:58.248177+00:00",
   "source_name": "MLB Stats API · LIDOM (liga 131)",
   "source_url": "https://statsapi.mlb.com/api/v1/schedule",
-  "local_date": "2026-11-22",
+  "local_date": "2026-11-23",
   "games": [
-    {
-      "date": "21/11/2026 05:00 PM",
-      "local_game_date": "2026-11-21",
-      "away": "TOR",
-      "home": "LIC",
-      "state": "final",
-      "away_score": 3,
-      "home_score": 10,
-      "detail": "Final",
-      "game_pk": 851458
-    },
-    {
-      "date": "21/11/2026 05:00 PM",
-      "local_game_date": "2026-11-21",
-      "away": "ESC",
-      "home": "GIG",
-      "state": "final",
-      "away_score": 2,
-      "home_score": 6,
-      "detail": "Final",
-      "game_pk": 851502
-    },
-    {
-      "date": "21/11/2026 07:30 PM",
-      "local_game_date": "2026-11-21",
-      "away": "AGU",
-      "home": "EST",
-      "state": "final",
-      "away_score": 1,
-      "home_score": 3,
-      "detail": "Final",
-      "game_pk": 851524
-    },
     {
       "date": "22/11/2026 03:00 PM",
       "local_game_date": "2026-11-22",
@@ -81,6 +48,39 @@
       "home_score": 11,
       "detail": "Final",
       "game_pk": 851553
+    },
+    {
+      "date": "24/11/2026 07:30 PM",
+      "local_game_date": "2026-11-24",
+      "away": "GIG",
+      "home": "TOR",
+      "state": "scheduled",
+      "away_score": null,
+      "home_score": null,
+      "detail": "Hora RD: 07:30 PM",
+      "game_pk": 851426
+    },
+    {
+      "date": "24/11/2026 07:30 PM",
+      "local_game_date": "2026-11-24",
+      "away": "EST",
+      "home": "LIC",
+      "state": "scheduled",
+      "away_score": null,
+      "home_score": null,
+      "detail": "Hora RD: 07:30 PM",
+      "game_pk": 851450
+    },
+    {
+      "date": "24/11/2026 07:30 PM",
+      "local_game_date": "2026-11-24",
+      "away": "ESC",
+      "home": "AGU",
+      "state": "scheduled",
+      "away_score": null,
+      "home_score": null,
+      "detail": "Hora RD: 07:30 PM",
+      "game_pk": 851552
     }
   ],
   "standings": [
