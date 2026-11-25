@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "fetched_at_utc": "2026-11-25T03:35:49.327085+00:00",
+  "fetched_at_utc": "2026-11-25T13:26:49.292126+00:00",
   "source_name": "MLB Stats API · LIDOM (liga 131)",
   "source_url": "https://statsapi.mlb.com/api/v1/schedule",
-  "local_date": "2026-11-24",
+  "local_date": "2026-11-25",
   "games": [
     {
       "date": "24/11/2026 07:30 PM",
@@ -24,7 +24,7 @@
       "state": "final",
       "away_score": 8,
       "home_score": 4,
-      "detail": "Game Over",
+      "detail": "Final",
       "game_pk": 851450
     },
     {
